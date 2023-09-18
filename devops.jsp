@@ -15,7 +15,7 @@
     <section class="contact">
         <h2>Contact Information</h2>
         <p>Email: Almog246@gmail.com</p>
-        <p>Phone:+972547332609</p>
+        <p>Phone: +972547332609</p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/almog-franco-154573177/">https://www.linkedin.com/in/almog-franco-154573177/</a></p>
     </section>
 
