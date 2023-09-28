@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Almog Franco</h1>
+        <h1>"Almog" Franco</h1>
         <p>Automation engineer</p>
     </header>
 
